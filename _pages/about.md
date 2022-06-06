@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Scientist at [The Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/joaquina-delas-vives).
+Scientist at [The Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/joaquina-delas-vives){:target="_blank"}.
 
 I am fascinated by how cells acquire their diverse fates from the same set of DNA instructions. During development, when the map to adult tissues is established, tightly controlled gene expression is essential for cell fate decisions. Regulatory sequences, or cis regulatory elements, within the vast non-coding genome control this precise gene expression. But our ability to identify and predict the activity of these elements from primary genomic sequence and our knowledge of how these elements function is limited. The primary goal of my research is to understand how the noncoding genome regulates cell fate decisions during development. My strategy to achieve this is to study the mechanistic principles of cis regulatory elements in a developmentally relevant model, the developing spinal cord. My long-term goal is understand and predict the function of noncoding DNA sequence and the impact of variants for healthy tissue development and disease.
 
